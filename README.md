@@ -1,5 +1,5 @@
 # VBA-Macro-Dump-Process
-This code will dump any user-level process specified and is written entirely in VBA. No shellcode injection or powershell used, only Windows API calls.
+This code will dump any user-level process specified and is written entirely in VBA. No shellcode injection, powershell, or dropping EXE's used, only Windows API calls.
 
 [Related blog post](https://john-woodman.com/research/malicious-vba-macros-trials-tribulations/)
 
